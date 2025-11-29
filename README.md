@@ -1,1 +1,1 @@
-# Week-7-Assignment
+This assignment is for COMP-001B-L01 week 7 hence the name, I will be explaining what worked well and what should change about this course as well as a few other questions.
