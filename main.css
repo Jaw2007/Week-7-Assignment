@@ -1,0 +1,16 @@
+h1 {
+	font-family: sans-serif;
+	letter-spacing: .05em;
+	margin: 1.5rem auto;
+	text-align: center;	
+    background-color: brown;  
+}
+    
+p {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+} 
+main {
+    background-color: aquamarine;
+} 
+
